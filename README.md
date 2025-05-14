@@ -1,5 +1,6 @@
 Digital Signal Processing Lab
-DSP LAB
+
+
  Generating elementary signals like Unit Step, Ramp, Exponential, Sine, and
 Cosine sequences.
 
