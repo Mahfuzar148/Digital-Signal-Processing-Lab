@@ -1,3 +1,6 @@
+ ##Filter realization using 6-point averaging, 6-point differencing equations.
+
+
 import numpy as np
 import matplotlib.pyplot as plt
 
