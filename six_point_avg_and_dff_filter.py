@@ -40,3 +40,4 @@ plt.title("6-Point Differencing Filter")
 plt.legend()
 plt.tight_layout()
 plt.show()
+

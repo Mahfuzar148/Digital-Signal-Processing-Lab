@@ -13,7 +13,9 @@ N = 64                 # Number of samples
 T = 1 / fs             # Sampling period
 n = np.arange(N)       # Discrete time indices
 t = n * T              # Time vector  
+# In signal processing, when you sample a continuous signal, you get discrete points in time.
 #  time vector is simply a list of those time points.
+
 
 # Signal: x(t) = sin(2π·1000·t) + 0.5·sin(2π·2000·t + 4π)
 # Since sin(θ + 4π) = sin(θ), we ignore the 4π
